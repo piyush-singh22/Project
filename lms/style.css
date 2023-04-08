@@ -23,7 +23,7 @@ input , textarea{
 .tab{
     padding:30px;
     width: 50%;
-    font-size:  35px;
+    font-size:  33px;
     background-color: whitesmoke;
 }
 
@@ -36,4 +36,7 @@ input[type=button], input[type=submit], input[type=reset] {
   margin: 4px 2px;
   cursor: pointer;
   
+}
+body{
+    font-family: cursive;
 }

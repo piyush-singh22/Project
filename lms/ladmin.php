@@ -15,15 +15,14 @@
             font-size:33px;
         }
     </style>
-
     
     
 <title>Library Managment System</title>
 </head>
 <body>
     <!-- <img class="bg" src="https://img.jagranjosh.com/imported/images/E/Articles/ibps_po_prelims_books_bodyimage.jpg" alt="Image not found"   > -->
-    <table class="tab"  style=' border-spacing:12px; padding-left:56px; margin-top: 133px; color:goldenrod; padding-bottom:50px; padding-top:50px; border-radius:50px; margin-left:4px; width:38%; opacity:0.9; box-sizing:content-box;'  align="justify">
-    <form action="validate.php" method="post">
+    <table class="tab"  style=' border-spacing:12px; padding-left:35px; padding-right:0px; margin-top: 250px; color:goldenrod; padding-bottom:25px; padding-top:25px; border-radius:50px; margin-left:4px; width:38%; opacity:0.9; box-sizing:content-box;'  align="justify">
+    <form action="avalidate.php" method="post">
 
     
         <tr>
@@ -50,9 +49,7 @@
                 </b>
             </td>
         </tr>
-        <th colspan='2'>
-     <p style="color:black;" align="left"> <b> <a href="index.php">click </a> here to register  </b></p> 
-    </th>
+       
        
             
                 <!-- <td> -->
