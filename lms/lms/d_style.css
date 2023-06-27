@@ -1,0 +1,14 @@
+.container {
+    color:black;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+  

@@ -1,0 +1,42 @@
+.container{
+    padding: 47px;
+    margin: auto;
+    /* background-image: url(https://img.jagranjosh.com/imported/images/E/Articles/ibps_po_prelims_books_bodyimage.jpg); */
+    background-color: antiquewhite;
+}
+
+.bg{
+    padding-left: 60px;
+    width: 90%  ;
+    float: center;
+    /* height: 800px; */
+    position: absolute;
+    z-index: -1;
+    opacity: 0.7;
+}
+input , textarea{
+    border:2px solid black;
+    border-radius: 6px;
+    outline: none;
+  
+}
+.tab{
+    padding:30px;
+    width: 50%;
+    font-size:  33px;
+    background-color: whitesmoke;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: orangered;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+body{
+    font-family: cursive;
+}
